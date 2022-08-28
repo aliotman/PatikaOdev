@@ -31,7 +31,11 @@
         }
         foreach (int sayi in dizi)
         {
+            if(sayi%2==0)
+            {
             Console.WriteLine(sayi);
+            }
+            
         }
             goto anamenu; ///////////////// CASE 1 SONU ///////////////////////
 
@@ -95,9 +99,9 @@
                     {
                         Console.WriteLine(kelime);
                     }
-                    goto anamenu;
+                    goto anamenu; /////// SORU 3 SONU ///////////////////
 
-                    case 4:
+                    case 4: ////////// SORU 4 KODLAR ///////////////
                     Console.Write("Bir cümle giriniz: ");
                     string cumle=Console.ReadLine();
                     int harfSayac=0,kelimeSayac=1;
@@ -112,7 +116,7 @@
                     }
                     Console.WriteLine("Toplam harf sayısı= "+harfSayac);
                     Console.WriteLine("Toplam kelime sayısı= "+kelimeSayac);
-                    goto anamenu;
+                    goto anamenu; /////// SORU 4 SONU ////////////////
         }
         
         
