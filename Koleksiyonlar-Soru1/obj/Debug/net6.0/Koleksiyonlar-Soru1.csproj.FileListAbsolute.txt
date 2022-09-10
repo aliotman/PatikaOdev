@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Koleksiyonlar-Soru1\bin\Debug\net6.0\Koleksiyonlar-Soru1.exe
+C:\Users\Dell\Desktop\Koleksiyonlar-Soru1\bin\Debug\net6.0\Koleksiyonlar-Soru1.deps.json
+C:\Users\Dell\Desktop\Koleksiyonlar-Soru1\bin\Debug\net6.0\Koleksiyonlar-Soru1.runtimeconfig.json
+C:\Users\Dell\Desktop\Koleksiyonlar-Soru1\bin\Debug\net6.0\Koleksiyonlar-Soru1.dll
+C:\Users\Dell\Desktop\Koleksiyonlar-Soru1\bin\Debug\net6.0\Koleksiyonlar-Soru1.pdb
+C:\Users\Dell\Desktop\Koleksiyonlar-Soru1\obj\Debug\net6.0\Koleksiyonlar-Soru1.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Koleksiyonlar-Soru1\obj\Debug\net6.0\Koleksiyonlar-Soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Koleksiyonlar-Soru1\obj\Debug\net6.0\Koleksiyonlar-Soru1.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Koleksiyonlar-Soru1\obj\Debug\net6.0\Koleksiyonlar-Soru1.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Koleksiyonlar-Soru1\obj\Debug\net6.0\Koleksiyonlar-Soru1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Koleksiyonlar-Soru1\obj\Debug\net6.0\Koleksiyonlar-Soru1.dll
+C:\Users\Dell\Desktop\Koleksiyonlar-Soru1\obj\Debug\net6.0\refint\Koleksiyonlar-Soru1.dll
+C:\Users\Dell\Desktop\Koleksiyonlar-Soru1\obj\Debug\net6.0\Koleksiyonlar-Soru1.pdb
+C:\Users\Dell\Desktop\Koleksiyonlar-Soru1\obj\Debug\net6.0\Koleksiyonlar-Soru1.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Koleksiyonlar-Soru1\obj\Debug\net6.0\ref\Koleksiyonlar-Soru1.dll
