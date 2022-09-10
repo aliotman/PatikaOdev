@@ -39,6 +39,7 @@ internal class Program
         
         asalSayi.Reverse();
         asalOlmayanSayi.Reverse();
+        
         Console.WriteLine("******** ASAL SAYILAR ***********");
         decimal asalToplam=0;
         decimal asalOlmayayanToplam=0;
